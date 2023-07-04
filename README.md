@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="180" frameBorder="0" class="giphy-embed" allowFullScreen />   
+   <img src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif" width="180" frameBorder="0" class="giphy-embed" allowFullScreen />   
    <h1 align="center">Hola Soy Josué Reyes</h1>
   
 </div>
