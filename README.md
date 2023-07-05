@@ -4,7 +4,6 @@
 </div>
 
 ### Sobre Mí 
-<hr/>
 <h3>Soy programador backend y un aficionado a la tecnologia. Me gusta aprender a usar nuevas herramientas que me faciliten a desarrollar proyectos de calidad. Me agrada trabajar en equipo y poder ayudar a mis compañeros cuando lo necesitan.</h3>
 
 <!--
