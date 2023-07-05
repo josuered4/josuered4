@@ -1,30 +1,18 @@
-<style>
-  .aboutMe {
-      display: flex;
-      flex-direction: row;
-  }
-  
-  .columna1 {
-      width: 20%;
-      background-color: #f0f0f0;
-  }
-  
-  .columna2 {
-      width: 80%;
-      background-color: #ccc;
-  } 
-</style>
-
 <div id="header" align="center"> 
    <h1 align="center">Hola soy Josué Reyes 👋</h1>
    <img src="https://github.com/josuered4/josuered4/blob/main/Banner.png?raw=true" width="100%" height="200"/>
 </div>
 
 ### Sobre Mí 
-<div id="aboutMe">
-   <div id="columna1"></div>
-   <div id="columna2"></div>
+<div>
+    <div style="float: left; width: 20%;">
+        Contenido de la columna 1
+    </div>
+    <div style="float: left; width: 80%;">
+        Contenido de la columna 2
+    </div>
 </div>
+
 <p>Soy programador backend y un aficionado a la tecnologia. Me gusta aprender a usar nuevas herramientas que me faciliten a desarrollar proyectos de calidad. Me agrada trabajar en equipo y poder ayudar a mis compañeros cuando lo necesitan.</p>
 
 <!--
