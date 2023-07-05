@@ -4,14 +4,8 @@
 </div>
 
 ### Sobre Mí 
-<div>
-    <div style="float: left; width: 20%;">
-        Contenido de la columna 1
-    </div>
-    <div style="float: left; width: 80%;">
-        Contenido de la columna 2
-    </div>
-</div>
+| <div style="width:20%;">Contenido de la primera parte</div> | <div style="width:80%;">Contenido de la segunda parte</div> |
+
 
 <p>Soy programador backend y un aficionado a la tecnologia. Me gusta aprender a usar nuevas herramientas que me faciliten a desarrollar proyectos de calidad. Me agrada trabajar en equipo y poder ayudar a mis compañeros cuando lo necesitan.</p>
 
