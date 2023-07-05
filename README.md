@@ -2,14 +2,14 @@
    <h1 align="center">Hola soy Josué Reyes 👋</h1>
    <img src="https://github.com/josuered4/josuered4/blob/main/Banner.png?raw=true" width="100%" height="200"/>
 </div>
-<h3> Sobre Mí </h3>
-<table>
+<h3 align="center"> Sobre Mí </h3>
+<table style="border-collapse: collapse;">
    <tr>
-      <td width:"20%" border:"0">
-         <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="180" frameBorder="0" class="giphy-embed" allowFullScreen /> 
+      <td width:"20%"  style="border: none;">
+         <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="180" frameBorder="0" class="giphy-embed"  /> 
       </td>
-      <td width:"80%" align="center">
-         <h4>Soy programador backend y un aficionado a la tecnologia. Me gusta aprender a usar nuevas herramientas que me faciliten a desarrollar proyectos de calidad. Me agrada trabajar en equipo y poder ayudar a mis compañeros cuando lo necesitan.</h4>
+      <td width:"80%" align="center" style="border: none;">
+         <h4>Soy programador backend y un aficionado a la tecnología. Me gusta aprender a usar nuevas herramientas que me faciliten a desarrollar proyectos de calidad. Me agrada trabajar en equipo y poder ayudar a mis compañeros cuando lo necesitan.<br/><br/><br/></h4>
       </td>
    </tr>
 </table>
@@ -30,7 +30,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<h3 align="center">Soy programador backend y un aficionado a la tecnologia. <br> Me gusta aprender a usar nuevas herramientas que me faciliten a desarrollar proyectos de calidad. Me agrada trabajar en equipo y poder ayudar a mis compañeros cuando lo necesitan.</h3>
-</div>
 -->
