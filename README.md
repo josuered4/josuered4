@@ -1,6 +1,6 @@
 <div id="header" align="center"> 
    <h1 align="center">Hola soy Josué Reyes 👋</h1>
-   <img src="https://github.com/josuered4/josuered4/blob/main/Banner.png?raw=true" width="100%" height="200"/>
+   <img src="https://github.com/josuered4/josuered4/blob/main/img/Banner.png?raw=true" width="100%" height="200"/>
 </div>
 
 <table style="border-collapse: collapse;">
