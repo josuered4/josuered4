@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="180" frameBorder="0" class="giphy-embed" allowFullScreen />   
    <h1 align="center">Hola soy Josué Reyes</h1>
-   <img src="https://github.com/josuered4/josuered4/blob/main/Banner.png?raw=true"/>
+   <img src="https://github.com/josuered4/josuered4/blob/main/Banner.png?raw=true" width="100%"/>
    <h3 align="center">Soy programador backend y un aficionado a la tecnologia. <br> Me gusta aprender a usar nuevas herramientas que me faciliten a desarrollar proyectos de calidad. Me agrada trabajar en equipo y poder ayudar a mis compañeros cuando lo necesitan.</h3>
 </div>
 
