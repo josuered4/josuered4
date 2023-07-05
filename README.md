@@ -4,7 +4,7 @@
 </div>
 
 ### Sobre Mí 
-<h3>Soy programador backend y un aficionado a la tecnologia. Me gusta aprender a usar nuevas herramientas que me faciliten a desarrollar proyectos de calidad. Me agrada trabajar en equipo y poder ayudar a mis compañeros cuando lo necesitan.</h3>
+<p>Soy programador backend y un aficionado a la tecnologia. Me gusta aprender a usar nuevas herramientas que me faciliten a desarrollar proyectos de calidad. Me agrada trabajar en equipo y poder ayudar a mis compañeros cuando lo necesitan.</p>
 
 <!--
 **josuered4/josuered4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
