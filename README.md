@@ -1,21 +1,13 @@
 <div id="header" align="center"> 
    <h1 align="center">Hola soy Josué Reyes 👋</h1>
+   <h5 align="center"> ¡Bienvenido/a a mi perfil de GitHub!</h5>
    <img src="https://github.com/josuered4/josuered4/blob/main/img/Banner.png?raw=true" width="100%" height="200"/>
 </div>
 
-<table style="border-collapse: collapse;">
-   <tr>
-      <td width:"20%"  >
-         <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="180" frameBorder="0" class="giphy-embed"  /> 
-      </td>
-      <td width:"80%"  >
-         <h3 > Sobre Mí </h3>
-         <h4>Soy programador backend y un aficionado a la tecnología. Me gusta aprender a usar nuevas herramientas que me faciliten a desarrollar proyectos de calidad. Me agrada trabajar en equipo y poder ayudar a mis compañeros cuando lo necesitan.<br/><br/><br/><br/></h4>
-      </td>
-   </tr>
-</table>
+ <h3 align="center">Sobre Mí </h3>
 
-
+<picture> <img align="left" width = 180 src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" frameBorder="0" class="giphy-embed"></picture>
+<h4 align="start">Soy un apasionado programador backend e ingeniero egresado de la Universidad Tecnológica de Tecamachalco del areá de Desarrollo y Getión de Software. Mi formación académica en desarrollo de software me ha proporcionado una base sólida. Busco constantemente aprender nuevas tecnologías y colaborar en proyectos de calidad junto a un equipo motivado.<br/><br/><br/></h4>
 
 
 
