@@ -25,22 +25,38 @@
 
 
 ## <img src="https://github.com/josuered4/josuered4/blob/main/img/code.gif?raw=true" width ="25"><b> Skills</b>
-
-<h4>Leguajes de Programación</h4> 
+<!--- stats (start) -->
+<table align="center">
+   <tr>
+      <td align="center">
+         <h4>Leguajes de Programación</h4> 
 
 [![My Skills](https://skillicons.dev/icons?i=cs,js,java,python)](https://skillicons.dev)
-
-<h4>Leguajes de Diseño</h4> 
+      </td>
+      <td align="center">
+         <h4>Leguajes de Diseño</h4> 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-
-<h4>Frameworks</h4> 
+      </td>
+      <td align="center">
+         <h4>Frameworks</h4> 
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,django,nodejs)](https://skillicons.dev)
-
-<h4>Librerias</h4> 
+      </td>
+      <td align="center">
+        <h4>Librerias</h4> 
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery)](https://skillicons.dev)
+      </td>
+      <td align="center">
+        <h4>Bases de Datos</h4> 
+
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+<img src="https://www.pngegg.com/es/search?q=sql" width ="25">
+      </td>
+   </tr>
+</table>
+<!--- stats (end) -->
 
 <!--
 **josuered4/josuered4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
