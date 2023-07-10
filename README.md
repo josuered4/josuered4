@@ -2,6 +2,9 @@
    <h1 align="center">Hola soy Josué Reyes 👋</h1>
    <h5 align="center"> ¡Bienvenido/a a mi perfil de GitHub!</h5>
    <img src="https://github.com/josuered4/josuered4/blob/main/img/Banner.png?raw=true" width="100%" height="200"/>
+   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
    <h5 align="center"> Soy un apasionado y autodidacta programador Backend </h5>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </div>
