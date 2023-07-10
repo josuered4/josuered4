@@ -52,7 +52,7 @@
         <h4>Bases de Datos</h4> 
 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-<img src="https://github.com/josuered4/josuered4/blob/main/img/SQLserver.png?raw=true" width ="60">
+<img src="https://github.com/josuered4/josuered4/blob/main/img/SQLserver.png?raw=true" width ="50">
       </td>
    </tr>
 </table>
