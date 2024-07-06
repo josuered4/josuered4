@@ -44,7 +44,7 @@
       <td align="center">
          <h4>Frameworks</h4> 
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,django,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,django,spring)](https://skillicons.dev)
       </td>
       <td align="center">
         <h4>Librerias</h4> 
